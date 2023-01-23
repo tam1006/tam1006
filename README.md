@@ -1,2 +1,12 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamlog06&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamlog06&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/tamlog06">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Syunya+Tamura;Kyoto University Student+%7C+Software+Engineer;Computer+Vision+%7C+AI" alt="Typing SVG" />
+</a>
+</a>
+<br/>
+
+<a href="https://github.com/tamlog06">
+  <img src="https://github-stats-alpha.vercel.app/api?username=tamlog06&cc=22272e&tc=37bcf6&ic=fff&bc=000">
+</a>
+  
+</p>
